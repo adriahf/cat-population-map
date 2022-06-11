@@ -12,7 +12,7 @@ Mapa obtingut a OpenStreetMap:
 https://www.openstreetmap.org/export#map=8/41.665/1.066
 
 ## Tractament de les dades
-Les dades de població s'han hagut d'estandaritzar, ja que hi ha nombrosos municipis que al llarg dels anys han anat canviat de nom.
+Les dades de població s'han hagut d'estandaritzar, ja que hi ha nombrosos municipis que al llarg dels anys han anat canviat de nom. Els gràfics de població generats estan normalitzats de forma que el màxim del sector amb més població (tant per longitud com per latitud) té un valor constant.
 
 ## Resultat
 A la següent figura es pot veure el resultat del projecte:
