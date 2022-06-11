@@ -17,4 +17,4 @@ Les dades de població s'han hagut d'estandaritzar, ja que hi ha nombrosos munic
 ## Resultat
 A la següent figura es pot veure el resultat del projecte:
 
-![cat-population-map](https://user-images.githubusercontent.com/2729145/173205747-abcbdc93-4de0-4bf5-835b-1945cba6a7ab.gif)
+![cat-population-map](https://user-images.githubusercontent.com/2729145/173206733-26feecdf-5258-4ec4-adb9-e9e64f7d6d55.gif)
