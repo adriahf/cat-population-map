@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2729145/221430372-15a5412b-8724-47d7-a220-c7485f79af4f.png" height="250" />  
+  <br/><br/>
+
+</p>
+<hr/>
+# Catalunya Population Map
+
 ## Descripció del projecte
 Aquest projecte pretén mostrar un gràfic animat de la distribució de la població a Catalunya en funció de la latitud i la longitud entre els anys 2003 i 2021.
 
